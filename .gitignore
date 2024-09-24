@@ -2,4 +2,5 @@
 /share
 /Lib
 /Scripts
+/.venv
 *.cfg
